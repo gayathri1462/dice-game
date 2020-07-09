@@ -1,17 +1,15 @@
 /******section1*********/
-
 .topcontainer {
-  padding: 15% 15%;
+  padding: 15% 5%;
   background-color: #0779e4;
+  text-align: center;
 }
 
-.h1-styles {
-  padding-top: 10%;
+#title h1 {
   font-family: 'Galada', sans-serif, cursive;
   text-shadow: 5px 0 #EEEEEE;
   font-size: 8rem;
   color: #07031a;
-  text-align: center;
   padding-bottom: 10%;
 }
 
@@ -22,33 +20,30 @@ h3 {
 
 p {
   font-size: 2rem;
-  color: #07031a;
-  font-family: 'Ubuntu', sans-serif;
+  color: #07031a font-family: 'Ubuntu', sans-serif;
   line-height: 2.5rem;
 }
 
-.btn {
-  margin-left: 40%;
-  margin-right: 40%;
+#color {
+  text-decoration: none;
 }
 
 /******section2************/
-.middlecontainer {
-  padding: 15% 10%;
+#media {
+  text-align: center;
+  padding-top: 10%;
 }
 
 .dice {
-  padding-top: 5%;
+  padding: 3% 3% 3% 3%;
   text-align: center;
-  left: 50%;
-  top: 50%;
-  padding-bottom: 5%;
+  display: inline-block;
 }
 
 /***section3*************/
 footer {
   padding: 5% 5%;
-  margin-top: 5%;
+ margin-top: 5%;
   color: #ffffff;
   text-align: center;
   background-color: #0779e4;
